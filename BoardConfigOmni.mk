@@ -30,6 +30,13 @@ TARGET_2ND_CPU_VARIANT := cortex-a7
 # F2FS filesystem Support
 TARGET_USERIMAGES_USE_F2FS := true
 
+# Audio
+AUDIO_FEATURE_ENABLED_DSM_FEEDBACK := true
+BOARD_USES_ALSA_AUDIO := true
+BOARD_HAVE_BLUETOOTH := true
+BOARD_HAVE_BLUETOOTH_BCM := true
+BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/huawei/angler/bluetooth
+
 # TWRP Theme
 TW_THEME := portrait_hdpi
 
