@@ -36,9 +36,9 @@ PRODUCT_PACKAGES += \
 
 # Override product naming for Omni
 PRODUCT_NAME := omni_angler
-PRODUCT_BRAND := google
+PRODUCT_BRAND := Google
 PRODUCT_DEVICE := angler
-PRODUCT_MODEL := Nexus 6P
+PRODUCT_MODEL := Huawei Nexus 6P
 PRODUCT_MANUFACTURER := Huawei
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
