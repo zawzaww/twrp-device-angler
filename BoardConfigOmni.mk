@@ -1,7 +1,6 @@
 # TWRP Inline Kernel: PureZ Kernel
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 TARGET_KERNEL_SOURCE := kernel/huawei/purez-kernel-angler
-# PureZ Kernel config
 TARGET_KERNEL_CONFIG := purez_defconfig
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
@@ -71,4 +70,4 @@ TW_NEVER_UNMOUNT_SYSTEM := true
 TW_NO_SCREEN_TIMEOUT := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
-TW_DEVICE_VERSION := angler by ZawZaw
+TW_DEVICE_VERSION := angler-1.0 by ZawZaw
