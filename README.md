@@ -7,4 +7,4 @@
 
 #### Nexus 6P Device Tree For Building Recovery TWRP
 
-// Contributed by: ZawZaw @XDA-Developers
+// Maintained by: ZawZaw [@XDA-Developers](https://forum.xda-developers.com/member.php?u=7581611)
